@@ -1,0 +1,9 @@
+.breadcrums{
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    font-size: 15px;
+    font-weight: 600px;
+    margin: 27px 170px;
+    text-transform: capitalize;
+}

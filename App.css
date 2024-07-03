@@ -1,0 +1,36 @@
+.navbar{
+  height: 80px;
+}
+.nav-item {
+  cursor: pointer;
+}
+.nav-link {
+  color: black;
+  margin: 13px;
+}
+.nav-link:hover{
+  background-color:lightgrey;
+  border-radius: 19px;
+  transform: scale(1.09);
+  transition: 0.9s;
+}
+.btn{
+  border: 1px solid rgb(108, 148, 152);
+  border-radius: 60px;
+  font-size: 20px;
+  font-weight: 500;
+  width: 90px;
+  height: 45px;
+}
+.nav-count{
+  align-items: center;
+  justify-content: center;
+  margin-top: -40px;
+  margin-right: -36px;
+  color: white;
+  background-color: red;
+  display: flex;
+  width: 22px;
+  height: 22px;
+  border-radius: 17px;
+}
